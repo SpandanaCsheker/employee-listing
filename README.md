@@ -2,7 +2,8 @@ We have a list of employee with full name(name) and social security number(ssn)
 
 1. Implement a method to list the employes sorted by their name in alphabetical order
 2. Implement a method to list the employes sorted by their ssn
-`
+2. Implement a method to print the sorted results
+```
   [
     {:name=>"Marylin Rice Sr.", :ssn=>"176-65-2926"}
     {:name=>"Diann Gleason III", :ssn=>"241-48-2893"}
@@ -25,7 +26,7 @@ We have a list of employee with full name(name) and social security number(ssn)
     {:name=>"Nerissa Murazik PhD", :ssn=>"727-23-5197"}
     {:name=>"Casimira Gerhold", :ssn=>"724-68-2029"}
   ]
-`
+```
 
 Fork this repository and raise a Pull Request with your solution
 The pull request title should be Employee-Listing-YOUR_-NAME
