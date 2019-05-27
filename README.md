@@ -2,7 +2,8 @@ We have a list of employee with full name(name) and social security number(ssn)
 
 1. Implement a method to list the employes sorted by their name in alphabetical order
 2. Implement a method to list the employes sorted by their ssn
-2. Implement a method to print the sorted results
+3. Implement a method to print the sorted results
+
 ```
   [
     {:name=>"Marylin Rice Sr.", :ssn=>"176-65-2926"}
